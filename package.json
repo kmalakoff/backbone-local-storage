@@ -1,0 +1,13 @@
+{
+  "name": "backbone-local-storage",
+  "version": "0.0.0",
+  "license" : "MIT",
+  "author": "Kevin Malakoff (https://github.com/kmalakoff)",
+  "contributors": ["Gwilym Humphreys (https://github.com/gwilymhumphreys)"],
+  "repository" : { "type" : "git", "url" : "https://github.com/vidigami/backbone-local-storage"},
+  "dependencies": {
+    "underscore": "*",
+    "backbone": "*",
+    "backbone-orm": "*"
+  }
+}
